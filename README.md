@@ -6,8 +6,8 @@ This project is designed as a way of measuring crime in a particular New Zealand
 
 In order to run this analysis, data must first be downloaded from:
 
-1. [http://www.police.govt.nz/about-us/publications-statistics/data-and-statistics/policedatanz](Police data) - the meshblock information providing crime statistics
-2. [https://koordinates.com/layer/8578-nz-meshblocks-2013-census/](Meshblock GIS data) from the NZ 2013 census
+1. [Police data](http://www.police.govt.nz/about-us/publications-statistics/data-and-statistics/policedatanz) - the meshblock information providing crime statistics
+2. [Meshblock GIS data](https://koordinates.com/layer/8578-nz-meshblocks-2013-census/) from the NZ 2013 census
 
 ## Methodology
 
